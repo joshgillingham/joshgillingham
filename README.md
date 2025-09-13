@@ -57,6 +57,8 @@ I thrive at the intersection of **frontend excellence, platform engineering, and
 
 ## 📈 GitHub Stats  
 
+![Josh's GitHub stats @KyruusHealth](https://github-readme-stats.vercel.app/api?username=joshgillingham-kyruus&show_icons=true&theme=radical)  
+![Top Langs @KyruusHealth](https://github-readme-stats.vercel.app/api/top-langs/?username=joshgillingham-kyruus&layout=compact&theme=radical)  
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshgillingham&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshgillingham&layout=compact&theme=radical)  
 
