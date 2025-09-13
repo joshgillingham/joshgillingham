@@ -18,12 +18,21 @@ Here are some ideas to get you started:
 
 🚀 **Senior Staff Engineer** | Frontend & Platform Leadership | Design Systems | Web Performance | Developer Experience  
 
-I’m a Senior Staff Software Engineer with a passion for building **scalable frontend systems, design platforms, and high-performing teams**.  
-I thrive at the intersection of **frontend excellence, platform engineering, and developer experience**—while mentoring engineers along the way.  
+I build **scalable frontend systems, design platforms, and high-performing teams**.  
+My strength lies in translating complex technical challenges into **clear, maintainable solutions**—and mentoring engineers along the way.  
 
 ---
 
-## 🛠️ Skills & Expertise  
+## 🧭 Engineering Philosophy  
+
+- 📝 Meticulous documenter: clean code, process diagrams, and clarity first  
+- 🤝 Strong believer in mentorship and developer experience  
+- ⚡ Pragmatic & innovative: balancing speed with sustainability  
+- 🌐 Thrives at the intersection of frontend, platform, and DX  
+
+---
+
+## 🛠️ Core Skills  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -34,13 +43,30 @@ I thrive at the intersection of **frontend excellence, platform engineering, and
 
 ---
 
+## 🔧 Tech Toolbox  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)  
+![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)  
+
+---
+
 ## 📌 Career Highlights  
 
-- 🔹 Led **Biome Design System** at *Kyruus Health*, influencing long-term frontend architecture.  
-- 🔹 Optimized Provider Profile & Search → **13% increase in appointment bookings**.  
-- 🔹 Architected complex **micro-frontend & platform engineering** strategies.  
-- 🔹 Built **enterprise-grade applications** across healthcare, analytics, and ERP.  
-- 🔹 Strong history of **mentorship & developer experience advocacy**.  
+- 🔹 Led **Biome Design System** at *Kyruus Health*, influencing long-term frontend architecture  
+- 🔹 Optimized Provider Profile & Search → **13% increase in appointment bookings**  
+- 🔹 Architected complex **micro-frontend & platform engineering** strategies  
+- 🔹 Built **enterprise-grade applications** across healthcare, analytics, and ERP  
+- 🔹 Strong history of **mentorship & developer experience advocacy**  
 
 ---
 
@@ -55,8 +81,17 @@ I thrive at the intersection of **frontend excellence, platform engineering, and
 
 ## 📈 GitHub Stats  
 
-<!--![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshgillingham&show_icons=true&theme=radical)  -->
+<!--
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joshgillingham&theme=radical)  
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshgillingham&show_icons=true&theme=radical)  
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshgillingham&layout=compact&theme=radical)  
+
+---
+
+## 📜 Certifications  
+
+![Scrum Master](https://img.shields.io/badge/Certified-PSM%20I-blue?style=flat-square)  
 
 ---
 
@@ -75,3 +110,10 @@ I thrive at the intersection of **frontend excellence, platform engineering, and
 
 ---
 
+## 🎮 Outside of Code  
+
+- 🚗 Rocket League enthusiast  
+- 🏋️ Fitness & workouts to recharge  
+- 🌱 Always exploring new dev tools & AI assistants  
+
+---
