@@ -1,0 +1,30 @@
+### TeX ###
+## Core latex/pdflatex auxiliary files:
+resume/*.aux
+resume/*.lof
+resume/*.log
+resume/*.lot
+resume/*.fls
+resume/*.out
+resume/*.toc
+
+## Intermediate documents:
+resume/*.dvi
+resume/*-converted-to.*
+resume/data/*
+
+## personal info
+resume/input/personal.tex
+
+## Builds
+resume/*.pdf
+resume/*.gz
+
+### Editor ###
+## Vim & Emacs temp files:
+.*sw[op]
+*~
+
+### Mac OS X ###
+## Mac OS X metadata files:
+*.DS_Store
